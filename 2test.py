@@ -1,1 +1,3 @@
-print("hello")
+from libs import lib
+
+print("Hello! World")
